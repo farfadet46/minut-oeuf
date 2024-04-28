@@ -7,5 +7,3 @@ Needs :
 1 LED STRIP (4 LED)
 
 1 buzzer (optionnal)
-
-
