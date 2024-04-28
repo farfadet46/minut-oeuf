@@ -3,10 +3,9 @@ Needs :<bt>
 <br>
 <ul>
 <li>1ARDUINO equivalent,
-<li>4 buttons<br>
+<li>4 buttons
 <li>5 1K resistor
-<li></ul>1 LED STRIP (4 LED)<br>
-<br>
-<li>1 buzzer (optionnal)<br>  
+<li></ul>1 LED STRIP (4 LED)
+<li>1 buzzer (optionnal)
 </ul>
 
